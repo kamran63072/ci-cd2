@@ -1,0 +1,8 @@
+@media (max-width:650px) {
+    .navbar {
+        width: 100vw;
+        height: 70px;
+        position: sticky;
+    }
+
+}
